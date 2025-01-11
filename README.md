@@ -63,3 +63,17 @@ Push your changes and create a pull request
 By using **OSINT FZ_TOOLS**, you acknowledge and agree to these terms and conditions. If you do not agree with these terms, you should not use the tool.
 
 **The creators of this tool do not condone or support illegal or unethical activities.**
+
+
+
+
+
+VIDEO :
+
+https://github.com/user-attachments/assets/36fda79b-e914-437c-9b40-6b04f59da61c
+
+
+
+
+
+
