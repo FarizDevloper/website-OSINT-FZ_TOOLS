@@ -76,14 +76,18 @@ By using **OSINT FZ_TOOLS**, you acknowledge and agree to these terms and condit
 
 If you'd like to support the development of **OSINT FZ_TOOLS**, we accept donations through the following platforms:
 
-- **GoPay**
-- **DANA**
-- **OVO**
-- **BCA (Bank Central Asia)**
+### Donasi via Metode Pembayaran:
 
+[<img src="https://example.com/gopay-button.png" alt="GoPay" width="200"/>](#)  
 [**Donate via GoPay**](#)  
+
+[<img src="https://example.com/dana-button.png" alt="DANA" width="200"/>](#)  
 [**Donate via DANA**](#)  
+
+[<img src="https://example.com/ovo-button.png" alt="OVO" width="200"/>](#)  
 [**Donate via OVO**](#)  
+
+[<img src="https://example.com/bca-button.png" alt="BCA" width="200"/>](#)  
 [**Donate via BCA**](#)
 
 Feel free to reach out to us for further information or assistance regarding donations. Your support helps us continue improving and maintaining the tool.
