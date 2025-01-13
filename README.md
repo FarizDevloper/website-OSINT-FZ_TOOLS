@@ -78,17 +78,51 @@ If you'd like to support the development of **OSINT FZ_TOOLS**, we accept donati
 
 ### Donasi via Metode Pembayaran:
 
-[<img src="https://example.com/gopay-button.png" alt="GoPay" width="200"/>](#)  
-[**Donate via GoPay**](#)  
+<!-- HTML Button for Donate via GoPay -->
+<a href="https://gopay.com" target="_blank">
+    <button style="background-color: #F5A623; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
+        Donate via GoPay
+    </button>
+</a>
 
-[<img src="https://example.com/dana-button.png" alt="DANA" width="200"/>](#)  
-[**Donate via DANA**](#)  
+<!-- HTML Button for Donate via DANA -->
+<a href="https://dana.id" target="_blank">
+    <button style="background-color: #1A77D1; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
+        Donate via DANA
+    </button>
+</a>
 
-[<img src="https://example.com/ovo-button.png" alt="OVO" width="200"/>](#)  
-[**Donate via OVO**](#)  
+<!-- HTML Button for Donate via OVO -->
+<a href="https://ovo.id" target="_blank">
+    <button style="background-color: #00A8E8; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
+        Donate via OVO
+    </button>
+</a>
 
-[<img src="https://example.com/bca-button.png" alt="BCA" width="200"/>](#)  
-[**Donate via BCA**](#)
+<!-- HTML Button for Donate via BCA -->
+<a href="https://www.bca.co.id" target="_blank">
+    <button style="background-color: #0066B3; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
+        Donate via BCA
+    </button>
+</a>
+
+---
+
+### Hubungi Kami
+
+<!-- Button for Contact via WhatsApp -->
+<a href="https://wa.me/080XXXXXXXX" target="_blank">
+    <button style="background-color: #25D366; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
+        Hubungi Kami via WhatsApp
+    </button>
+</a>
+
+<!-- Button for Account Number Information -->
+<a href="https://example.com/rekening-bca" target="_blank">
+    <button style="background-color: #0066B3; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
+        Lihat Nomor Rekening BCA
+    </button>
+</a>
 
 Feel free to reach out to us for further information or assistance regarding donations. Your support helps us continue improving and maintaining the tool.
 
