@@ -71,6 +71,17 @@ By using **OSINT FZ_TOOLS**, you acknowledge and agree to these terms and condit
 **The creators of this tool do not condone or support illegal or unethical activities.**
 
 
+## Credits
+
+Jika Anda ingin mendukung pengembangan lebih lanjut, beri kredit kepada pengembang berikut:
+
+<a href="https://github.com/username" target="_blank">
+    <button style="background-color: #28a745; color: white; padding: 10px 20px; font-size: 16px; font-weight: bold; border: none; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer;">
+        Kredit kepada Pengembang
+    </button>
+</a>
+
+
 VIDEO DEMO 
 
 
