@@ -24,30 +24,36 @@ Welcome to **OSINT FZ_TOOLS**, an advanced **open-source intelligence (OSINT)** 
 - **Encryption:** Simple yet secure encryption techniques for protecting sensitive information.
 - **Data Format:** CSV data converted to JSON for easy manipulation and filtering.
 
+## How to Use 🧑‍💻
 
-How to Use 🧑‍💻
-Search by Name or NIK: Input a name or NIK and click "Search by Name or NIK."
-Search by Phone Number: Input a phone number and click "Search by Phone."
-Fetch All Users: Click the "Fetch All Users" button to retrieve all available records.
-View the results displayed below the search bar.
-Security 🔒
-Data Encryption: We use basic encryption techniques to safeguard sensitive data like phone numbers and company names.
-No External Data Collection: The tool operates entirely in your browser and does not send any data to external servers.
-Contribution 🤝
+- **Search by Name or NIK:** Input a name or NIK and click "Search by Name or NIK."
+- **Search by Phone Number:** Input a phone number and click "Search by Phone."
+- **Fetch All Users:** Click the "Fetch All Users" button to retrieve all available records.
+- View the results displayed below the search bar.
+
+## Security 🔒
+
+- **Data Encryption:** We use basic encryption techniques to safeguard sensitive data like phone numbers and company names.
+- **No External Data Collection:** The tool operates entirely in your browser and does not send any data to external servers.
+
+## Contribution 🤝
+
 Contributions are welcome! If you find bugs or have ideas for improvements, feel free to open an issue or submit a pull request.
 
 How to contribute:
-Fork the repository
-Create a new branch for your feature or bug fix
-Make your changes and commit them
-Push your changes and create a pull request
+1. Fork the repository
+2. Create a new branch for your feature or bug fix
+3. Make your changes and commit them
+4. Push your changes and create a pull request
+
+---
 
 ## Disclaimer
 
 **OSINT FZ_TOOLS** is a tool designed for open-source intelligence (OSINT) gathering from publicly available data sources. By using this tool, you agree to the following terms and conditions:
 
 1. **Purpose of the Tool:** The primary purpose of **OSINT FZ_TOOLS** is to assist in the collection and analysis of publicly available information for research, educational, and legitimate professional use. The tool is not intended for illegal or unethical activities.
-
+   
 2. **Compliance with Laws and Regulations:** Users are solely responsible for ensuring that their use of this tool complies with all applicable local, national, and international laws, regulations, and ethical standards. This includes but is not limited to privacy, data protection, and intellectual property laws.
 
 3. **Data Privacy:** **OSINT FZ_TOOLS** processes publicly available information only. The tool does not access private, restricted, or proprietary databases. However, users should be mindful of privacy considerations when gathering data and respect the rights of individuals and organizations.
@@ -64,24 +70,25 @@ By using **OSINT FZ_TOOLS**, you acknowledge and agree to these terms and condit
 
 **The creators of this tool do not condone or support illegal or unethical activities.**
 
+---
 
+## Credits and Support 💳
 
+If you'd like to support the development of **OSINT FZ_TOOLS**, we accept donations through the following platforms:
 
+- **GoPay**
+- **DANA**
+- **OVO**
+- **BCA (Bank Central Asia)**
 
-VIDEO :
+[**Donate via GoPay**](#)  
+[**Donate via DANA**](#)  
+[**Donate via OVO**](#)  
+[**Donate via BCA**](#)
 
+Feel free to reach out to us for further information or assistance regarding donations. Your support helps us continue improving and maintaining the tool.
 
+---
 
-
-
-
-https://github.com/user-attachments/assets/821dccf8-dfdd-45df-88fd-d1be3b597f9a
-
-
-
-
-
-
-
-
-
+**VIDEO:**  
+[OSINT FZ_TOOLS Demo Video](https://github.com/user-attachments/assets/821dccf8-dfdd-45df-88fd-d1be3b597f9a)
