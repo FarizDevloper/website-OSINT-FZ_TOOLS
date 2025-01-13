@@ -75,13 +75,8 @@ By using **OSINT FZ_TOOLS**, you acknowledge and agree to these terms and condit
 
 Jika Anda ingin mendukung pengembangan lebih lanjut, beri kredit kepada pengembang berikut:
 
-<a href="https://github.com/username" target="_blank">
-    <button style="background-color: #4CAF50; color: white; padding: 12px 28px; font-size: 18px; font-weight: 600; border: none; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); cursor: pointer; transition: background-color 0.3s ease;">
-        Kredit kepada Pengembang
-    </button>
-</a>
-
-
+<script src="https://cdn.pinpayments.com/pin.v2.js"></script>
+<a class="pin-payment-button" href="https://pay.pinpayments.com/qkbo/test"><img src="https://pinpayments.com/pay-button.png" alt="Pay Now" width="86" height="38"></a>
 
 
 
