@@ -70,63 +70,13 @@ By using **OSINT FZ_TOOLS**, you acknowledge and agree to these terms and condit
 
 **The creators of this tool do not condone or support illegal or unethical activities.**
 
----
 
-## Credits and Support 💳
+VIDEO DEMO 
 
-If you'd like to support the development of **OSINT FZ_TOOLS**, we accept donations through the following platforms:
 
-### Donasi via Metode Pembayaran:
+https://github.com/user-attachments/assets/85a8ea03-9469-42f3-b475-c8a62dd6d871
 
-<!-- HTML Button for Donate via GoPay -->
-<a href="https://gopay.com" target="_blank">
-    <button style="background-color: #F5A623; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
-        Donate via GoPay
-    </button>
-</a>
 
-<!-- HTML Button for Donate via DANA -->
-<a href="https://dana.id" target="_blank">
-    <button style="background-color: #1A77D1; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
-        Donate via DANA
-    </button>
-</a>
 
-<!-- HTML Button for Donate via OVO -->
-<a href="https://ovo.id" target="_blank">
-    <button style="background-color: #00A8E8; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
-        Donate via OVO
-    </button>
-</a>
 
-<!-- HTML Button for Donate via BCA -->
-<a href="https://www.bca.co.id" target="_blank">
-    <button style="background-color: #0066B3; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
-        Donate via BCA
-    </button>
-</a>
 
----
-
-### Hubungi Kami
-
-<!-- Button for Contact via WhatsApp -->
-<a href="https://wa.me/080XXXXXXXX" target="_blank">
-    <button style="background-color: #25D366; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
-        Hubungi Kami via WhatsApp
-    </button>
-</a>
-
-<!-- Button for Account Number Information -->
-<a href="https://example.com/rekening-bca" target="_blank">
-    <button style="background-color: #0066B3; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 8px;">
-        Lihat Nomor Rekening BCA
-    </button>
-</a>
-
-Feel free to reach out to us for further information or assistance regarding donations. Your support helps us continue improving and maintaining the tool.
-
----
-
-**VIDEO:**  
-[OSINT FZ_TOOLS Demo Video](https://github.com/user-attachments/assets/821dccf8-dfdd-45df-88fd-d1be3b597f9a)
