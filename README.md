@@ -76,7 +76,7 @@ By using **OSINT FZ_TOOLS**, you acknowledge and agree to these terms and condit
 Jika Anda ingin mendukung pengembangan lebih lanjut, beri kredit kepada pengembang berikut:
 
 
-<a class="pin-payment-button" href="https://pay.pinpayments.com/qkbo/test"><img src="https://pinpayments.com/pay-button.png" alt="Pay Now" width="86" height="38"></a>
+<a class="pin-payment-button" href="https://saweria.co/adminpusat2024"><img src="https://pinpayments.com/pay-button.png" alt="Pay Now" width="86" height="38"></a>
 
 
 
