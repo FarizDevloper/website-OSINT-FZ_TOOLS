@@ -1,4 +1,5 @@
-# OSINT FZ_TOOLS - Open Source Intelligence Search Tool 🕵️‍♂️💻
+# ![FarizDevloper10001](https://github.com/user-attachments/assets/8eb81eef-2f54-4cf6-b75f-7cda494ebb4d)
+OSINT FZ_TOOLS - Open Source Intelligence Search Tool 🕵️‍♂️💻
 
 Welcome to **OSINT FZ_TOOLS**, an advanced **open-source intelligence (OSINT)** search tool designed to make information gathering efficient, secure, and fast. With an easy-to-use interface and robust search capabilities, you can search for data by **NIK**, **name**, or **phone number**. The tool securely handles sensitive information using encryption techniques, ensuring privacy while allowing deep searches.
 
